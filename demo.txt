@@ -1,4 +1,0 @@
-This is a text file.
-Git is very easy
-Just be patient and ask your questions at the ens.
-Some of your questions would be answered at the end of the class.
